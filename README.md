@@ -52,12 +52,19 @@ Step 6. Note that the output of the file has an issue! The header inserts a blan
 
 ![image](https://github.com/anagh3395/M10_Assignment/assets/146588429/e61bcdde-6c6d-4a57-b93b-9bb4cc04602b)
 
+Link for the file - 
+https://information-arch-vendor-bucket.s3.us-east-2.amazonaws.com/charities_bureau_scrape_header_blank_row20240413021040.csv
+
+
 
 Update the script that was provided to remove the blank row in the csv output file
 
 ![image](https://github.com/anagh3395/M10_Assignment/assets/146588429/a8e75d35-c140-48ae-bca4-2dad9a0df3f8)
 
 ![image](https://github.com/anagh3395/M10_Assignment/assets/146588429/e79542de-ade3-4b67-b2d3-79adcb916b60)
+
+Link to the file - 
+https://information-arch-vendor-bucket.s3.us-east-2.amazonaws.com/charities_bureau_scrape_header_blank_row_fixed20240413022647.csv
 
 
 
@@ -71,6 +78,9 @@ For this portion of the lab, we are going to alter the script, M10_webscraper_as
 ![image](https://github.com/anagh3395/M10_Assignment/assets/146588429/11598451-9e4b-489c-ba37-cfa1b8251b89)
 
 ![image](https://github.com/anagh3395/M10_Assignment/assets/146588429/f7c33469-169c-4184-bae4-1c25d33716b4)
+
+Link to the file - 
+https://information-arch-vendor-bucket.s3.us-east-2.amazonaws.com/charities_bureau_scrape_all_pages20240413040229.csv
 
 
 Once the test has passed, commit the changes to the master branch of your GitHub repository, updating the script and the file on s3.  
